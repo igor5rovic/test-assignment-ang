@@ -1,0 +1,5 @@
+.users-container{
+    padding: 40px 0;
+    display: grid;
+    grid-gap: 20px;
+}
